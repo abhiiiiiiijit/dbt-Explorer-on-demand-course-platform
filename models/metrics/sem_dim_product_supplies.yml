@@ -7,7 +7,7 @@ semantic_models:
       - name: product_type
         type: foreign
     dimensions:
-      - name: is_food_order
+      - name: is_food_item
         type: categorical
-      - name: is_drink_order
+      - name: is_drink_item
         type: categorical
