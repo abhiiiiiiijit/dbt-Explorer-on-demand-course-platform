@@ -1,7 +1,7 @@
 sources:
   - name: jaffle_shop
-    database: raw
-    schema: jaffle_shop
+    database: centered-osprey-443420-a4
+    schema: jaffle_shop_stg
     description: E-commerce data
     tables:
       - name: customers
